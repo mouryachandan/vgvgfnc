@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    body{
+        background-color: rgb(16, 142, 142);
+    }
+    .container-fluid{
+        width: 100%;
+        height: auto;
+        padding: 0px 0px 80px 0px;
+    }
+    .container
+    {
+        width: 1200px;
+        height: auto;
+        margin: auto;
+    }
+    .search
+{
+display: flex;
+}
+
+}
